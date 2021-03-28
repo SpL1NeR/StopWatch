@@ -8,7 +8,10 @@
     "@testing-library/user-event": "^12.8.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-jquery-plugin": "^1.1.7",
     "react-scripts": "4.0.3",
+    "rxjs": "^6.6.6",
+    "rxjs-compat": "^6.6.6",
     "web-vitals": "^1.1.1"
   },
   "scripts": {
